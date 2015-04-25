@@ -1,0 +1,104 @@
+==> en-arb-enwiktionary_info.txt <==
+# English :: Standard_Arabic dictionary extracted from http://en.wiktionary.org/
+
+==> en-bg-enwiktionary_info.txt <==
+# English :: Bulgarian dictionary extracted from http://en.wiktionary.org/
+
+==> en-ca-enwiktionary_info.txt <==
+# English :: Catalan dictionary extracted from http://en.wiktionary.org/
+
+==> en-cmn-enwiktionary_info.txt <==
+# English :: Mandarin dictionary extracted from http://en.wiktionary.org/
+
+==> en-cs-enwiktionary_info.txt <==
+# English :: Czech dictionary extracted from http://en.wiktionary.org/
+
+==> en-da-enwiktionary_info.txt <==
+# English :: Danish dictionary extracted from http://en.wiktionary.org/
+
+==> en-de-enwiktionary_info.txt <==
+# English :: German dictionary extracted from http://en.wiktionary.org/
+
+==> en-el-enwiktionary_info.txt <==
+# English :: Greek dictionary extracted from http://en.wiktionary.org/
+
+==> en-es-enwiktionary_info.txt <==
+# English :: Spanish dictionary extracted from http://en.wiktionary.org/
+
+==> en-fa-enwiktionary_info.txt <==
+# English :: Persian dictionary extracted from http://en.wiktionary.org/
+
+==> en-fi-enwiktionary_info.txt <==
+# English :: Finnish dictionary extracted from http://en.wiktionary.org/
+
+==> en-fr-enwiktionary_info.txt <==
+# English :: French dictionary extracted from http://en.wiktionary.org/
+
+==> en-he-enwiktionary_info.txt <==
+# English :: Hebrew dictionary extracted from http://en.wiktionary.org/
+
+==> en-hi-enwiktionary_info.txt <==
+# English :: Hindi dictionary extracted from http://en.wiktionary.org/
+
+==> en-hu-enwiktionary_info.txt <==
+# English :: Hungarian dictionary extracted from http://en.wiktionary.org/
+
+==> en-id-enwiktionary_info.txt <==
+# English :: Indonesian dictionary extracted from http://en.wiktionary.org/
+
+==> en-it-enwiktionary_info.txt <==
+# English :: Italian dictionary extracted from http://en.wiktionary.org/
+
+==> en-ja-enwiktionary_info.txt <==
+# English :: Japanese dictionary extracted from http://en.wiktionary.org/
+
+==> en-ko-enwiktionary_info.txt <==
+# English :: Korean dictionary extracted from http://en.wiktionary.org/
+
+==> en-ms-enwiktionary_info.txt <==
+# English :: Malay dictionary extracted from http://en.wiktionary.org/
+
+==> en-nl-enwiktionary_info.txt <==
+# English :: Dutch dictionary extracted from http://en.wiktionary.org/
+
+==> en-no-enwiktionary_info.txt <==
+# English :: Norwegian dictionary extracted from http://en.wiktionary.org/
+
+==> en-pl-enwiktionary_info.txt <==
+# English :: Polish dictionary extracted from http://en.wiktionary.org/
+
+==> en-pt-enwiktionary_info.txt <==
+# English :: Portuguese dictionary extracted from http://en.wiktionary.org/
+
+==> en-ro-enwiktionary_info.txt <==
+# English :: Romanian dictionary extracted from http://en.wiktionary.org/
+
+==> en-ru-enwiktionary_info.txt <==
+# English :: Russian dictionary extracted from http://en.wiktionary.org/
+
+==> en-sh-enwiktionary_info.txt <==
+# English :: Serbo-Croatian dictionary extracted from http://en.wiktionary.org/
+
+==> en-sv-enwiktionary_info.txt <==
+# English :: Swedish dictionary extracted from http://en.wiktionary.org/
+
+==> en-tr-enwiktionary_info.txt <==
+# English :: Turkish dictionary extracted from http://en.wiktionary.org/
+
+==> en-vi-enwiktionary_info.txt <==
+# English :: Vietnamese dictionary extracted from http://en.wiktionary.org/
+
+==> es-en-enwiktionary_info.txt <==
+# Spanish :: English dictionary generated from http://en.wiktionary.org/
+
+==> fi-en-enwiktionary_info.txt <==
+# Finnish :: English dictionary generated from http://en.wiktionary.org/
+
+==> fr-en-enwiktionary_info.txt <==
+# French :: English dictionary generated from http://en.wiktionary.org/
+
+==> it-en-enwiktionary_info.txt <==
+# Italian :: English dictionary generated from http://en.wiktionary.org/
+
+==> pt-en-enwiktionary_info.txt <==
+# Portuguese :: English dictionary generated from http://en.wiktionary.org/

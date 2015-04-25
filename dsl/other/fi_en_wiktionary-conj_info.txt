@@ -1,0 +1,56 @@
+# Finnish-English Wiktionary dump for offline use, extracted from http://en.wiktionary.org/
+# License :: Creative Commons Attribution-ShareAlike 3.0 Unported License; GNU Free Documentation License
+# URL :: https://en.wiktionary.org/wiki/User:Ilinov_86
+# download link: http://dropproxy.com/f/5BE
+# License :: Creative Commons Attribution-ShareAlike 3.0 Unported License; GNU Free Documentation License
+# This DSL file has been released under same terms and license as the original dictionary, and is available as part of the Open DSL Dictionary Project at https://github.com/open-dsl-dict/wiktionary-dict
+
+
+              ==ORIGINAL DICTIONARY INFO==
+Finnish-English Wiktionary dump for offline use
+
+Dictionary entries were retrieved from the Wiktionary website using the Finnish word list from Matthias Buchmeier and then converted to a plain text format. The dictionary is usable but some text blocks may look a little bit messy (e.g. declensions and conjugations). The dictionary is available in a DSL plain text format and also in Abbyy Lingvo X5 LSD format. If you want to use it on an Android device, the only program that supports LSD format is GoldenDict
+LSD_dump
+DSL_dump
+
+Article examples:
+
+aakkonen
+
+(index aa)
+Pronunciation
+ * Hyphenation: aak‧ko‧nen
+ * IPA^(key): [ˈɑːkːonen]
+Noun
+1. A letter (symbol in an alphabet).
+2. In plural, (aakkoset) an alphabet.
+Declension of aakkonen (type nainen)
+              singular   plural
+nominative   aakkonen   aakkoset
+ genitive    aakkosen   aakkosten
+                        aakkosien
+ partitive   aakkosta   aakkosia
+accusative   aakkonen   aakkoset
+             aakkosen
+ inessive    aakkosessa aakkosissa
+  elative    aakkosesta aakkosista
+ illative    aakkoseen  aakkosiin
+ adessive    aakkosella aakkosilla
+ ablative    aakkoselta aakkosilta
+ allative    aakkoselle aakkosille
+   essive    aakkosena  aakkosina
+translative  aakkoseksi aakkosiksi
+instructive  –          aakkosin
+ abessive    aakkosetta aakkositta
+comitative   –          aakkosineen
+Derived terms
+ * adjectives: aakkosellinen
+ * adverbs: aakkosittain
+ * nouns: aakkosto
+ * verbs: aakkostaa
+Compounds
+ * aakkosjärjestys                        * sokeainaakkoset
+ * aakkosnumeerinen                       * sormiaakkonen
+ * morseaakkoset                          * suuraakkonen
+ * pienaakkonen
+

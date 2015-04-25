@@ -1,0 +1,1396 @@
+# English :: Danish dictionary extracted from http://en.wiktionary.org/
+# License :: Creative Commons Attribution-ShareAlike 3.0 Unported License; GNU Free Documentation License
+# Version :: 20150102
+# Size :: 15383 English glosses; 18682 Danish translations
+# URL :: http://en.wiktionary.org/wiki/User:Matthias_Buchmeier
+# DSL version generated using wikt2dsl, part of the dsl-tools project (https://github.com/dohliam/dsl-tools)
+# This DSL file has been released under same terms and license as the original dictionary, and is available as part of the Open DSL Dictionary Project at https://github.com/open-dsl-dict/wiktionary-dict
+
+                             ==ORIGINAL LICENSE & CREDITS==
+These dictionaries have been extracted from the database 
+of the English Wiktionary:  http://en.wiktionary.org
+For details and updates see:
+http://http://en.wiktionary.org/wiki/User:Matthias_Buchmeier
+
+The dictionaries can be used under the terms of the 
+"CC-BY-SA License": http://creativecommons.org/licenses/by-sa/3.0/
+or alternatively the 
+"GNU Free Documentation License"
+
+The Following authors have made significant contributions
+to the English Wiktionary:
+
+MewBot
+Rukhabot
+MglovesfunBot
+Interwicket
+SemperBlottoBot
+KassadBot
+Luckas-bot
+AutoFormat
+McBot
+RobotGMwikt
+LA2-bot
+SemperBlotto
+Conrad.Bot
+Equinox
+BuchmeierBot
+Daneel Olivaw
+NadandoBot
+Tbot
+Kennybot
+Jyril
+Mglovesfun
+Atitarev
+CodeCat
+DCDuring
+Stephen G. Brown
+Wyangbot
+Embryomystic
+Pereru
+UllmannBot
+Alasdair
+TheDaveBot
+Flubot
+EncycloPetey
+Lo Ximiendo
+BD2412
+Ivan Štambuk
+Dawnraybot
+Connel MacKenzie
+Dan Polansky
+VolkovBot
+Hekaheka
+Vahagn Petrosyan
+Haplology
+AugPi
+Saltmarsh
+Dick Laurent
+MalafayaBot
+Hippietrail
+-sche
+Panda10
+DerbethBot
+YS-Bot
+Bequw
+Daniel Carrero
+Ultimateria
+Angr
+Ruakh
+OpiBot
+Word dewd544
+WarddrBOT
+Ungoliant MMDCCLXIV
+Keenebot2
+A-cai
+QuasiBot
+Msh210
+Razorflame
+Connel MacKenzieBot
+Tooironic
+Chuck Entz
+Widsith
+Matthias Buchmeier
+Wanjuscha
+Buttermilch
+Mutante
+Barmar
+TheCheatBot
+Williamsayers79
+Paul G
+Leasnam
+Nadando
+Dijan
+Metaknowledge
+Rodasmith
+Yair rand
+Jamesjiao
+LA2
+BiT
+Mjbmrbot
+Visviva
+ArathVerbFormBot
+Rajasekhar1961
+Krun
+Gilgamesh
+Amir Hamzah 2008
+Frous
+Robin Lionheart
+Donnanz
+FitBot
+Atelaes
+Makaokalani
+MaEr
+Leolaursen
+Bumm13
+Vildricianus
+Robert Ullmann
+Goldenrowley
+Dixtosa
+Maro
+Liliana-60
+Pofficerbot
+Sae1962
+Kephir
+PalkiaX50
+Word dewd543
+NanshuBot
+Romanophile
+DAVilla
+Darkicebot
+Zeitlupe
+DrJos
+Mike
+Conrad.Irwin
+Drago
+Mulder1982
+TheDaveRoss
+Doremítzwr
+Thrissel
+ChuispastonBot
+RJFJR
+Back on the list
+Wikitiki89
+Mzajac
+Keene
+Nbarth
+Wyang
+Rising Sun
+Dvortygirl
+Thryduulf
+ZxxZxxZ
+GanimalBot
+Caladon
+Gauss
+Kc kennylau
+Heyzeuss
+Eclecticology
+Baron de Saint-Rémy
+ScsRhymeBot
+Cloudcuckoolander
+Sinek
+Internoob
+Eirikr
+Beobach972
+Bogorm
+Carl Daniels
+Neskaya
+BigDom
+334a
+-sche-bot
+Jackofclubs
+Arath
+Jaaari
+WikiPedant
+Angelucci
+Eipnvn
+Duncan MacCall
+Polyglot
+Bjankuloski06en
+Koszmonaut
+Circeus
+Carolina wren
+Hans-Friedrich Tamke
+Anglom
+16@r
+Benwing
+ReidAA
+Jonathan Webley
+Arne List
+Liuscomaes
+I&amp;#039;m so meta even this acronym
+Njardarlogar
+DTLHS
+Pingku
+Kappa
+Algrif
+Adamsa123
+Dominic
+CopperKettle
+Martin123xyz
+Mr. Granger
+Tohru
+Luciferwildcat
+Curious
+JorisvS
+Ptcamn
+Kaixinguo
+Gliorszio
+Silent Sam
+Csörföly D
+Kwamikagami
+Stardsen
+Morkai5
+WingerBot
+Vedac13
+OG
+Rod-MigrateCatsBot
+Longtrend
+Flyax
+Dbfirs
+Tedius Zanarukando
+Bequwbot
+Wonderfool
+Ncik
+Ddpy
+Doug Hockin
+Volants
+Qorilla
+Cynewulf
+Mike Dillon
+Ready Steady Yeti
+Verbo
+Type56op9
+Strabismus
+Pumpie
+Speednat
+LlywelynII
+Etimo
+Neitrāls vārds
+Borovi4ok
+KYPark
+EivindJ
+Mzajacbot
+Dmol
+DPMaid
+Uncle G
+123abc
+Meco
+Renard Migrant
+BAICAN XXX
+Xhienne
+Jon Harald Søby
+Hamaryns
+Rockpilot
+Tempodivalse
+Andrew massyn
+Mysid
+TAKASUGI Shinji
+Sarefo
+Sewnmouthsecret
+North Atlanticist Usonian
+Dmh
+Fsojic
+Facts707
+Engirst
+Flying Saucer
+Lmaltier
+Mxn
+Actarus176
+Medellia
+Dangherous
+ÀrdRuadh21
+Richardb
+George Animal
+DblRedirBot
+Muke
+Mallerd
+Djkcel
+Pharamp
+SPQRobin
+Ishwar
+24
+WernescU
+Biblbroks
+Davilla
+Diligent
+11achitturi
+Morgengave
+Jagwar
+TeleComNasSprVen
+Jerome Charles Potts
+Gbeebani
+Versageek
+Vladisdead
+Language Lover
+Alifshinobi
+One half 3544
+Aulis Eskola
+ElisaVan
+Robbie SWE
+Psoup
+Emperorbma
+Karelklic
+Dezzie
+Nemzag
+Spl908455
+MetaBot
+Andyluciano
+StubCreationBot
+--Stranger
+Eric Utgerd
+Irman
+Reidca
+Jakeybean
+Torvalu4
+Andresalvarez
+Poccil
+Nick1nildram
+JackPotte
+Dvortybot
+JohnC5
+Sumiaz
+Scs
+CyberSkull
+Newnoise
+Tweenk
+AndyPandy
+Laurent Bouvier
+Wytukaze
+Hyarmendacil
+Milliehandshrimp
+Rsvk
+Diuturno
+ILVI
+Victar
+V-ball
+Vriullop
+Wikt Twitterer
+Logomaniac
+Hikui87
+Bendono
+Gmcfoley
+Diego Grez
+Dbachmann
+Jeffqyzt
+Amgine
+Kolmiel
+Mirek2
+Schneelocke
+Flet
+Mike Halterman
+Don Alessandro
+Hyark
+JillianE
+Malafaya
+Zigzig20s
+Prosfilaes
+Fanatix
+Purplebackpack89
+Cirt
+Balloonguy
+Venere
+Lexicografía
+Ian Burnet
+Dubaduba
+Chapultepec
+Nielsheur
+ArielGlenn
+Jcwf
+Natox
+Izumi5
+Calavera
+CeNobiteElf
+Forudgah
+Cova
+Simplus2
+Felonia
+Alex
+Öljylautta
+Tim Q. Wells
+Pengo
+Diupwijk
+Vivaelcelta
+Madina
+Shoof
+Kevin Rector
+Zabadu
+Saimdusan
+ZBroz
+Afc0703
+SSL69
+PierreAbbat
+OrenBochman
+NjardarBot
+Edelstam
+Pathoschild
+Petruk
+BenjaminBarrett12
+Mathonius
+Thisis0
+Sally Ku
+Catsidhe
+Red Prince
+Discanto
+CommonsDelinker
+DerekWinters
+Kipmaster
+Rappo
+Liso
+Quesotiotyo
+Ferike333
+Jusjih
+Rhanyeia
+Sa&amp;#039;y
+TempBot
+Lucyin
+Smurrayinchester
+Dart evader
+E. abu Filumena
+Svenji
+24h-beachcomber
+Dhum Dhum
+Britannic124
+AKA MBG
+Stevey7788
+Dangus
+Mikko Paananen
+Snakesteuben
+GutenBot
+John1deer
+Ortonmc
+Spinningspark
+Rory096
+WritersCramp
+HeliosX
+Kasmil
+SonPraises
+Ghost of WikiPedant
+Beru7
+TheProject
+Fumiko Take
+Dcljr
+Jimp
+史凡
+Renebeto
+Dux Oppositionis
+Teh Rote
+GerardM
+Urhixidur
+Teodor605
+Avestan Pashtun
+Gilward Kukel
+Bigbossfarin
+Kevin Ryde
+Eal
+Leftmostcat
+Kw0
+Nero86
+HenkvD
+Ikatz
+G1257
+EdwardH
+Fastifex
+KJBracey
+Tango24
+Allamakee Democrat
+Yoursmile
+Smiddle
+Adelpine
+MirekDve
+Keene2
+Wihwang
+Caretaker Gorgon
+Enginear
+Mammal
+ObsequiousNewt
+AdamBMorgan
+AxelSjögren
+Coffee2theorems
+SeeAlsoBot
+Eveningmist
+Nibiko
+Lunaibis
+Lisztrachmaninovfan
+Hakeem.gadi
+Sabretooth
+Nisetpdajsankha
+Jun-Dai
+HannesP
+Deilbh
+Flibjib8
+AnWulf
+Natsubee
+Dingar
+KSiimson
+Kamilz
+Wayne Roberson, Austin, Texas
+Trunkie
+Derbeth
+NHJG
+Moglex
+Doddebot
+Fejstkajkafski
+Ewweisser
+Celestianpower
+MGSpiller
+The Evil IP address
+Xoristzatziki
+DavidL2
+Rainmonger
+LGagnon
+Arapaima
+Myndfrea
+Xoolanguage
+Chaduvari
+Badagnani
+Amit6
+Mzekiu
+Kåre-Olav
+Downunder
+Borganised
+Itkilledthecat
+Cdhaptomos
+TohruBot
+Nanshu
+Che829
+Santi Gomà
+KoreanQuoter
+Peter Isotalo
+Coyau
+Hongthay
+Echtio
+Ferhengvan
+Top Cat 14
+Primetime
+Dakhart
+Ensjo
+Annabel
+Patrik Stridvall
+DianaKhanjila
+Omnipaedista
+Ceyockey
+Romanb
+Edgefield
+Maria Sieglinda von Nudeldorf
+Sentree
+Yann
+Rakkalrast
+Furius
+Webkid
+Maria.Sion
+Thecurran
+Mede
+Obretenov
+Whym
+Uncle G&amp;#039;s &amp;#039;bot
+Kraŭs
+Mac
+Długosz
+Esszet
+Optional
+Nicoletapedia
+Ortografix
+Neskbot
+Kampy
+Eean
+Chimerical05
+Pikolas
+Tasnu Arakun
+Meihouwang
+Stf
+Tyranny Sue
+Mat200
+LaPietre
+Acdcrocks
+Sextiliana
+Dyami Millarson
+Gene Nygaard
+Cl
+达伟
+Oleg Katsitadze
+Icqgirl
+Alexdubr
+Calq
+And we drown
+TBC
+Kassios
+Black-Velvet
+Woodendog
+Mormegil
+BrentDT
+Wisapi
+Malhonen
+Gtroy
+Yorktown1776
+Keffy
+Wakuran
+Depressing November
+Event
+Coreydragon
+Scsbot
+Steel Blade
+BigBadBen
+Thv
+Mahjoob
+Hahahaha哈
+Peleg
+Pepsi Lite
+Tropylium
+Physchim62
+Espoo
+John Cross
+Opabik
+HersfoldBot
+Florian Blaschke
+SixTwo
+Logan
+Tsukuyone
+Zuiarra
+Gougnafier
+Bennmorland
+Ooswesthoesbes
+Amjaabc
+ConanBot
+AlphaOmega
+Jaroslavleff
+LeonardoRob0t
+Yyy
+Lennart.larsen
+Dcmacnut
+Jtle515
+InfoSlave
+Leoadec
+Blade Hirato
+JesseW
+Makearney
+Paul Willocx
+Hlmswn
+Werdnabot
+O&amp;#039;Dea
+Curtisweyant
+Arctic.gnome
+Olybrius
+Dennis Valeev
+HiFlyer
+Vorziblix
+Sano
+Fturco
+Serafín33
+This, that and the other
+Btouburg
+SmokyMonster
+Tharthan
+CommonsTicker
+Roisterer
+Fudoreaper
+Veeven
+Eccenihil
+Blastu
+Enrico Pangan
+Mikemoral
+Sack36
+Trivialist
+Patzak
+Zoologo
+Zeggazo
+Cam
+Barbara Shack
+CORNELIUSSEON
+Octahedron80
+Istafe
+VildBot
+ThomasWasHere
+Penarc
+Filip
+Xan2
+PaparazziPulse
+WikiWinters
+Monni95
+Soued031
+Rfc1394
+Sannab
+Dilyâresi
+Caphthor
+Fonzy
+Marmase
+GiuseppeMassimo
+Hooiwind
+Eroica
+Rural Legend
+Menchi
+Rklawton
+AZard
+Josephbrophy
+Halliburton Shill
+Akanemoto
+Parttimer
+Hbrug
+4RM0
+WilliamKF
+Brholden
+JackBot
+Szajci
+Kinamand
+An Useok
+Cnilep
+Choor monster
+T.sujatha
+Howiemandil
+GuitarDudeness
+Pinkfud
+AnnaKucsma
+Shoehorn
+ThirdPersBot
+Adding quotes
+Tfajjel
+Fête
+Rich Farmbrough
+Celloplayer115
+Llusiduonbach
+Placebo
+Korodzik
+Nwspel
+Twpsyn Pentref
+Hinthar
+Svlioras
+Ibt
+Deepthought
+Abburns
+Timwi
+Silesianus
+Mahmudmasri
+Yellowhen
+Gwinver
+Brandnewuser
+Zeke
+That Guy, From That Show!
+Icek
+Ixfd64
+Ricardo Carneiro Pires
+Trade
+Waldir
+Tchirruá
+Kilibarda
+Iamnotanorange
+Håkon
+Elperretebueno
+Proto-Germanic Fan
+PastBot
+Koavf
+Arax
+Ketie
+Ivocamp96
+Gregcaletta
+MrSmart
+Josu Lavin
+Elkaar
+Znex
+Lundgren8
+Danny
+Schoenfeld
+Walled gardener
+Čumbavamba
+Wolfkeeper
+JB82
+Sebastian Goll
+Fletcher55
+Sarvaturi
+Pietaster
+Useigor
+Piolinfax
+VPliousnine
+Ericri
+Jacklee
+Hirabutor
+Anceurs
+Virgis
+Joel7687
+Jesielt
+Grunnen
+ArkinAardvark
+Youssefsan
+Happymom78
+Bearingbreaker92
+WonderfoolatEaster
+Aghniyya
+Aleator
+Ailurophile
+Fauban
+Amjakob
+Slavić
+Brya
+Conan
+Tawker
+Nathanael Bar-Aur L.
+Proxima Centauri
+Princeps linguae
+LUUSAP
+Mr gronk
+B9 hummingbird hovering
+Taxman
+Dropoff point
+Zigguzoo
+Matricularius
+SnoopY
+Lexicografer
+Geofferybard
+DaGizza
+Willy obretenov
+Korn
+Sarang
+Rossami
+Caudex Rax
+Wjcd
+Pofficer
+Les Meloures
+AggyLlama
+Wakablogger
+SK luuut
+Marcot
+Shegashega
+Fugyoo
+Jenniepet
+ELF
+Viskonsas
+Diamondland
+シリョガ
+Alexander Widefield
+Aufels
+GianWiki
+RingMaster517
+Bead-v
+Mar vin kaiser
+2004-12-29T22:45Z
+Tsujigiri
+Dirk gently
+Crom daba
+Pronkiewicz
+LombardBeige
+CMBJ
+Mnidjm
+Sunset Angel
+Sokac121
+Dejongstebroer
+Youandme
+DolphinL
+Babel AutoCreate
+Stan Shebs
+Brett
+Aursani
+Diddims
+FarEast
+Fullupfrompizza
+Vive la Rosière
+Renegade5005
+ReclaimerNZ
+Robert.Baruch
+LucasEasedUp
+A333
+Globish
+Bluelion
+Jobnikon
+Michae2109
+MichaelLau
+Person12
+Pamputt
+Mark4011
+Kaldari
+Help1for1roof
+Rose Waswa
+Az
+Lwh
+Pinyinize
+Fabgil
+Pesner22
+LalalalaSta
+Jronner
+Andreas S.
+Actarus Prince d&amp;#039;Euphor
+Peeperman
+Edcolins
+CMEHalverson
+Leif Runenritzer
+Linguoboy
+Mindraker
+Aupiff
+João Neto
+VNNS
+Mulgadweller
+Yakky snacks
+Dilated pupils
+Tragopogon
+Ardiedan1995
+Fredmaranhao
+Pointon
+Jnestorius
+Воображение
+Emi-Ireland
+-xfi-
+Ftomi
+Jeraphine Gryphon
+Wipe
+Pampotte
+Sobreira
+Rasms
+Juxho
+Xyzzyva
+Nikola Smolenski
+J Milburn
+AmaryllisGardener
+Arcarius
+Raging Bull
+Werdna
+Mjanja
+Mikalaari
+Serpicozaure
+Kathovo
+BLurpty
+Zfr
+Tirkfl
+Peter K. Livingston
+Ljubomir
+Eric119
+Cek
+AndreasWittenstein
+Three littlish birds
+Electric goat
+Una Smith
+Baisemain
+Wierdw123
+Pajz
+JackLumber
+Wietsezuyderwijk
+Philaweb
+Stratoprutser
+Smoken Flames
+Pyprilescu
+Chzz
+BrettR
+Lorenax
+Guaka
+Andres65
+Leucius
+Cehihin
+4pq1injbok
+Nikai
+MihailJP
+Kusurija
+Jackwolfroven
+馬太阿房
+Royal Jelly
+Kevlar67
+Darkdadaah
+Andrejj
+Tn4196
+Mattrogers
+Maias
+Lysdexia
+Goldenbrook
+Espreon
+KlaudiuMihaila
+PullUpYourSocks
+Phomer
+Beren
+Chuffable
+TrivialTrevor
+Spacebirdy
+Kzollman
+Alhen
+Smuconlaw
+Infovarius
+Davidrpmorris
+CoryCohen
+Levenius
+Asoibel
+Anonymous editors
+Halfdan
+Girmitya
+Mikkalai
+Jimregan
+Dekoshu
+Fafnir
+Epolk
+Abdull
+Raghun
+Waltter Manoel da Silva wten
+Sabri76
+Luccas
+Andris.attack
+Jakoli4
+Citizen Premier
+Bottletoground
+Kumioko
+Zhividya
+Triwikanto
+Kprwiki
+Kadel
+Grendelkhan
+Xuongrongnohoa
+Pierpao
+Sentinella
+Esin0420
+Brettz9
+Kop
+Cammoore
+Psi-Lord
+Per
+CJLippert
+In ictu oculi
+Bleifrei
+Perhaps another fan
+Benlisquare
+Robykiwi
+Moilleadóir
+Mairene
+Dcoetzee
+Universal Life
+Attys
+TopAce
+N2e
+Cadfaell
+Bilagáana
+Mindmatrix
+Stambouliote
+Plowman
+Etym
+Gobbler
+Dajagr
+Scientific29
+Kenyon
+Angie Y.
+Dodde
+Peter238
+Nnt
+Alphathon
+Sandman
+Colombiacuriosa
+Nino Barbieri
+Automatik
+WereCarrot
+GabrielSjoberg
+Soap
+Rmo13
+Andy85719
+Mdd
+Hiezi
+Marrovi
+Jona
+Sean Clark
+Qef
+Henryk911
+Ed Poor
+Diego Grez Bot
+Urso Major
+Dimboukas
+Miwasatoshi
+Itsacatfish
+Gaston
+Elephantus
+Iyouwetheyhesheit
+B jonas
+Malaysiaboy
+CasperBraske
+Ganymede
+ECUgrad96
+Caesura
+AivoK
+Sajasaze
+YngNghymru
+Vin
+Hofoen
+Encolpe
+RandomTeri
+Paraguay222
+Mewasul
+JVRKPRASAD
+Andres
+Chloejr
+Proteins
+Mgrand
+Iamthe7DeadlySins
+Positivesigner
+OlEnglish
+Guitardemon666
+Fr.ta
+Alia H
+Rredwell
+Eruner
+Ces
+Ὁ οἶστρος
+Justinrleung
+GreenGenie
+Randy6767
+Kzman
+Carlos MS
+LokiClock
+CloudNine
+Amatlexico
+Ahls23
+Slord
+Rmashhadi
+Preferits
+Foxjwill
+Eliashedberg
+Blurpeace
+Greg-si
+Fonzo
+Croquant
+Stephen MUFC
+Nicoleta
+Aristitleism
+Silvioricardoc
+Msayag
+Lagoset
+Victor LP
+Lukenji
+Llull
+Di gama
+Athang1504
+PSICOMSoldier13
+Maikxlx
+Az1568
+123snake45
+Dcabrilo
+Scottish friend
+Kpjas
+Dj 2012
+Algide-Amygdale
+タチコマ robot
+Puisque
+Sanya3
+On Ka Wo Mu
+Capsot
+Sinofreeman
+Kameist
+Evrik
+Vytautniks
+T. Mazzei
+Mate Juhasz
+O ec
+Llonydd
+Btw
+Ackatsis
+Skomba
+Shai
+OldakQuill
+Anemos
+Makecat-bot
+Charidri
+AmericanLeMans
+TEB728
+Jmolina116
+Julius177
+Prosody
+Mikael Häggström
+Mendelivia
+Le Fondu
+User332572385
+Kchishol1970
+TeragR
+Divinenephron
+Oreo Priest
+Hybrid-2k
+Hyacinth
+Pirttinen
+Marac
+Hydrox
+WurdSnatcher
+M0rphzone
+Anthurium
+White whirlwind
+Dunhamrc
+MCent
+Lumbercutter
+Aeromix
+StradivariusTV
+Skizzik
+Winged eel
+Piet-c
+Ben Herzog
+Avjewe
+Almit39
+AEuSoes1
+Quentinv57
+Kutchkutch
+Deyyaz
+Balamax
+Yaron
+Sten
+Repasando
+Jeffq
+Soardra
+Mitkostatev
+Missmarple
+Frankjh
+ErkeTurk
+Eco mate
+Dictabeard
+Bleakgh
+Salvadors
+Barbaking
+Tormod
+Valis
+Pjr
+Ehonobe
+Sunshine23
+Muriloricci
+Dtrebbien
+TFighterPilot
+Porelmundo
+Websterbot
+Rotlink
+Oxymoron83
+Siuenti
+Erik Warmelink
+Doccolinni
+TempWFbotaccount
+Taliandr
+Sarrus
+MrGulli
+Limes
+Hämbörger
+Bob Burkhardt
+TheSimpleFool
+TestPilot
+Larsb
+ŠtambukBot
+Henri Pidoux
+Easttimor247
+Bob the Wikipedian
+தகவலுழவன்
+Úlfur-R
+TJxSJ
+Nemo bis
+Dvellakat
+So9q
+Pce3@ij.net
+Miasma
+Lawrence J. Howell
+Anthony Appleyard
+Alexander Mikhalenko
+Милан Јелисавчић
+Kasjanek21
+Grammatical error
+Think Fast
+Onomamashinee
+La la means I love you
+CAmbrose
+Freiberg
+BONGU SEAN
+MuDavid
+Keith the Koala
+Juzeris
+Bgagaga
+Velociraptor888
+PolyBOT
+Caligari
+Saga City
+Panda34
+Livajo
+Habemus
+Frank C. Müller
+ShedCorner
+Geminni
+朝彦
+Λεξικόφιλος
+לערי ריינהארט
+Kmack
+Hopiakuta
+Slashme
+Jiròni
+Erutuon
+Bluemask
+A12n
+SMcCandlish
+Aphaia
+Torgo
+Alton
+Pol098
+Billinghurst
+Xcvii
+Wshun
+Nayrb Rellimer
+Etienfr
+Hégésippe Cormier
+Esteban.barahona
+Mitchell B Powell
+Wmahan
+Rob
+Nederbörd
+Providus
+Blysk
+Porokello
+Psy guy
+Polarpanda
+Phol
+Nichetas
+Littenberg
+Jcrwiki
+Dictionarybuilder
+Chatumao
+Brian0918
+Artur
+Meddlin&amp;#039; Pedant
+JonLS
+Brim
+3210
+Siri We
+Piterkeo
+Cashie
+Andrzej 22
+Pedro Aguiar
+MKar
+Xic667
+Παρατηρητής
+Vhorvat
+Ptalatas
+JSBrowand13
+Tyrannus Mundi
+Tony6ty4ur
+T42
+RMizo
+Mortense
+Dictionaric
+AlexanderKaras
+Wolfdog
+Rumpel77
+PiRSquared17
+Fark
+Ashvemn
+Nederlandse Leeuw
+Chicken sand
+Tuvalkin
+Soleil levant
+Pilot
+LMM
+Denispir
+CokeHanx
+Brainy J
+Aston
+Xtv
+Scooteristi
+CarlKenner
+A-heun
+ZeinepBopoeva
+Splibubay
+Nestum82
+Cass-bot
+Al Silonov
+獲加多支鹵大王
+Shustov
+Cruinne
+Sije
+Maden
+Chuck SMITH
+Tom20082
+Freckles.10.6.2005
+8
+Wahrmund
+Vulnerant
+Ulmanor
+Teh Ph34r
+Frizabela
+Cem BSEE
+Phatom87
+Dustsucker
+Casicastiel
+Skookum1
+Jóhann Heiðar Árnason
+FredrikMH
+ᏳᎴᏂ
+We9fud
+Varlagas
+Sumonrahman
+Dfeuer
+Hunadam
+Rhachani
+N-true
+Mdd4696
+Karen Johnson
+Curtaintoad
+Azmi1995
+SebastianHellmann
+Boldlyman
+X Parasite
+Akshay Deokar
